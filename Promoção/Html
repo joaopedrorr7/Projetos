@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camiseta nike</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div><h1>
+Destaque da Semana
+    </h1>
+    <div id="fundo">
+        
+    </div>
+    </div>
+    <div id="tudo">
+
+        <div id="promoção">
+            <img src="camiseta-nike-sportswear-tee.jpg"100px height="190px" alt="">
+        </div>
+        
+        
+        
+        <div id="Preço">
+            ﾠCamiseta Nike
+            <p id="1texto">
+            </p>
+            <p id="texto2">
+                Camiseta Nike leve, confortável e estilosa em tom branco com swoosh Nike. Perfeita para o dia a dia, combinando simplicidade, qualidade e atitude
+                
+            </p>
+            <p id="Valor">
+                ﾠR$ 89,99
+            </p>
+            
+            <button> 
+                <p id="botão">
+                    Adicionar ao Carrinho
+                </p>
+            </button>
+        </div>
+    </div>
+    </body>
+</html>
