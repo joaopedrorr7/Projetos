@@ -1,0 +1,67 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px; /* Reduz o tamanho do título H1 para 20px */
+    
+}
+body{
+
+    background-color: rgb(212, 214, 218);
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 40vw;
+
+}
+#Preço{
+    display: flex;
+    height: 150px;
+    width: 200px;
+    background-color: white;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: space-around;
+    border-radius: 19px;
+    
+
+}
+#texto2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+    margin-left: 3px;
+    margin-top: -30px;
+
+}
+button{
+    background-color: rgb(0, 0, 0);
+    height: 30px;
+    width: 95px;
+    corner-shape: round;
+    border-radius: 30px;
+    margin: auto
+}
+#botão{
+    color: white;
+    font-size: 8px;
+    
+}
+#Valor{
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: -1px;
+
+}
+#promoção{
+    text-align: center
+}
+#tudo{
+    width: 200px;
+    height: 340px;
+    background-color: rgb(242, 239, 239);
+    border-radius: 19px;
+    box-shadow: 10px 10px 12px grey;
+
+}
+img{
+    border-radius: 19px;
+}
